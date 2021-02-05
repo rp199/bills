@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.rp199
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, aws-v2-sdk, gradle, kotest, kotlin, logback, readme, shade, yaml]
